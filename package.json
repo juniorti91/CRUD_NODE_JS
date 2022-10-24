@@ -1,0 +1,23 @@
+{
+  "name": "crud_node_js",
+  "version": "1.0.0",
+  "description": "Criação do CRUD com Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorti91/CRUD_NODE_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniorti91/CRUD_NODE_JS/issues"
+  },
+  "homepage": "https://github.com/juniorti91/CRUD_NODE_JS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
